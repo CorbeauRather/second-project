@@ -1,0 +1,29 @@
+.slides{
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+.slide{
+    background-color: red;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.slide-1{
+    background-color: #CDFADB;
+}
+.slide-2{
+    background-color: #F6FDC3;
+}
+.slide-3{
+    background-color: #FFCF96;
+}
+.slide-4{
+    background-color: #FF8080;
+}
